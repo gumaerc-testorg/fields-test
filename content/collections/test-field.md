@@ -1,5 +1,5 @@
 ---
-content_type: course-collection
+content_type: field
 courselists:
   content:
   - d4cbee9b-6416-4177-ad6d-312f5d40a6f5

@@ -1,5 +1,5 @@
 ---
-content_type: course-lists
+content_type: subfield
 courses:
 - id: 6-776-high-speed-communication-circuits-spring-2005
   title: High Speed Communication Circuits

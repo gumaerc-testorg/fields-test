@@ -1,5 +1,5 @@
 ---
-content_type: course-lists
+content_type: subfield
 courses:
 - id: 8-591j-systems-biology-fall-2004
   title: Systems Biology
