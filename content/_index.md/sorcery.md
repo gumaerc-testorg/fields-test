@@ -16,7 +16,7 @@ description: "**sorcery**, the practice of malevolent [magic](https://www.britan
   \ in particular, the sorcerer often assumes a more positive guise."
 draft: false
 featured-courses:
-  content: ''
+  content: d4cbee9b-6416-4177-ad6d-312f5d40a6f5
   website: fields-test
 subfields:
   content:
