@@ -8,7 +8,9 @@ featured-courses:
   content: ''
   website: fields-test
 subfields:
-  content: []
+  content:
+  - b7808c3d-8380-4b49-b678-fb102e1ba8f2
+  - bec508ec-4f76-426e-9b0c-d90b90ad4bcc
   website: fields-test
 title: Sorcery
 uid: field_home
