@@ -14,7 +14,7 @@ description: "sorcery, the practice of malevolent magic, derived from casting lo
   \ in particular, the sorcerer often assumes a more positive guise."
 draft: false
 featured-courses:
-  content: ''
+  content: b7808c3d-8380-4b49-b678-fb102e1ba8f2
   website: fields-test
 subfields:
   content:
